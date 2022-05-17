@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vbtomm
 - 👀 I’m interested in Kotlin/Java
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java/Js
 
 
 <!---
